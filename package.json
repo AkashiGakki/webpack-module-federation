@@ -1,0 +1,8 @@
+{
+  "name": "webpack-module-federation",
+  "version": "0.0.0",
+  "packageManager": "pnpm@7.6.0",
+  "devDependencies": {
+    "taze": "^0.7.6"
+  }
+}
