@@ -1,4 +1,4 @@
-const ModuleFederationPlugin = require('webpack').container.ModuleFederationPlugin;
+const { ModuleFederationPlugin } = require('webpack').container;
 
 module.exports = {
   publicPath: 'http://localhost:9000/',
